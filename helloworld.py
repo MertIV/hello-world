@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
 
-s_string = "Hello World"
+s1_string = "Hello"
 
-print(s_string)
+s2_string = "World"
+
+print(s1_string + " " + s2_string)
